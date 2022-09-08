@@ -6,7 +6,7 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 
 1. CWWV_IMG
 | Dimensions    |  Counts  | 
-| ------------- | -------------:| 
+| ------------- | ------------- | 
 | part-whole    | 1,165         |
 | taxonomic     | 1,323         |
 | distinctness  | 828           |
@@ -18,7 +18,7 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 | spatial       | 1,599         |
 | desire        | 1,781         |
 
-<\br>
+
 
 [Download CWWV_IMG](https://drive.google.com/uc?export=download&id=1UdwadtWGBw1qPbXw0AX4Qbx8tAnvmUKT)
 
