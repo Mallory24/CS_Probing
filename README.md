@@ -4,7 +4,7 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 ## Datasets for Commonsense Knowledge Probing
 ![Overview of CWWV_IMG Dataset Construction Pipeline](https://github.com/Mallory24/CS_Probing/blob/main/data_construction.png)
 
-1. CWWV_IMG 
+1. **CWWV_IMG** ([Download](https://drive.google.com/uc?export=download&id=1UdwadtWGBw1qPbXw0AX4Qbx8tAnvmUKT))
 
 
 | Dimensions    |  Counts  | 
@@ -21,12 +21,7 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 | desire        | 1,781         |
 | **total**     | **13,259**    |
 
-
-
-[Download CWWV_IMG](https://drive.google.com/uc?export=download&id=1UdwadtWGBw1qPbXw0AX4Qbx8tAnvmUKT)
-
-2. CWWV_CLIP
-
+2. **CWWV_CLIP** [Download](https://drive.google.com/uc?export=download&id=10PsP7jMrQnUNU_oI_Z29clSMXW_Yh1Qo)
 
 | Dimensions    |  Counts  | 
 | ------------- | -------------:| 
@@ -42,8 +37,6 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 | desire        | 91            |
 | **total**     | **1,189**     |
 
-
-[Download CWWV_CLIP](https://drive.google.com/uc?export=download&id=10PsP7jMrQnUNU_oI_Z29clSMXW_Yh1Qo)
 
 ## Citation
 If you find this dataset useful for your research, please cite:
