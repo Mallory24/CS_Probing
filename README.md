@@ -8,7 +8,7 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 
 
 | Dimensions    |  Counts  | 
-| ------------- | ------------- | 
+| ------------- | -------------:| 
 | part-whole    | 1,165         |
 | taxonomic     | 1,323         |
 | distinctness  | 828           |
@@ -19,14 +19,31 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 | temporal      | 1,889         |
 | spatial       | 1,599         |
 | desire        | 1,781         |
+| **total **    | 13,259        |
 
 
 
 [Download CWWV_IMG](https://drive.google.com/uc?export=download&id=1UdwadtWGBw1qPbXw0AX4Qbx8tAnvmUKT)
 
 2. CWWV_CLIP
-   - [ ] A Table of Instance Counts Across Commonsense Dimensions? <br />
-   [Download CWWV_CLIP](https://drive.google.com/uc?export=download&id=10PsP7jMrQnUNU_oI_Z29clSMXW_Yh1Qo)
+
+
+| Dimensions    |  Counts  | 
+| ------------- | -------------:| 
+| part-whole    | 170           |
+| taxonomic     | 85            |
+| distinctness  | 86            |
+| similarity    | 188           |
+| quality       | 143           |
+| utility       | 120           |
+| creation      | 8             |
+| temporal      | 154           |
+| spatial       | 144           |
+| desire        | 91            |
+| **total **    | 1,189        |
+
+
+[Download CWWV_CLIP](https://drive.google.com/uc?export=download&id=10PsP7jMrQnUNU_oI_Z29clSMXW_Yh1Qo)
 
 ## Citation
 If you find this dataset useful for your research, please cite:
