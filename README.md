@@ -4,10 +4,10 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 ## Datasets for Commonsense Knowledge Probing
  - [ ] Short descriptions
 1. CWWV_IMG
-   - [ ] A Table of Instance Counts Across Commonsense Dimensions?
+   - [ ] A Table of Instance Counts Across Commonsense Dimensions? \\
    [Download CWWV_IMG](https://drive.google.com/uc?export=download&id=1UdwadtWGBw1qPbXw0AX4Qbx8tAnvmUKT)
 2. CWWV_CLIP
-   - [ ] A Table of Instance Counts Across Commonsense Dimensions? 
+   - [ ] A Table of Instance Counts Across Commonsense Dimensions? \\
    [Download CWWV_CLIP](https://drive.google.com/uc?export=download&id=10PsP7jMrQnUNU_oI_Z29clSMXW_Yh1Qo)
 
 ## Citation
