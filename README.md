@@ -2,7 +2,7 @@
 The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models Commonsense Knowledge Bases?"
 
 ## Datasets for Commonsense Knowledge Probing
-![Overview of CWWV_IMG Dataset Construction Pipeline](data_construction)
+![Overview of CWWV_IMG Dataset Construction Pipeline](https://github.com/Mallory24/CS_Probing/blob/main/data_construction.png)
 
 1. CWWV_IMG
    - [ ] A Table of Instance Counts Across Commonsense Dimensions? <br />
