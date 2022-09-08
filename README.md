@@ -19,7 +19,7 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 | temporal      | 1,889         |
 | spatial       | 1,599         |
 | desire        | 1,781         |
-| **total **    | 13,259        |
+| **total**     | **13,259**    |
 
 
 
@@ -40,7 +40,7 @@ The Official data repository for COLING 2022 paper "Are Visual-Linguistic Models
 | temporal      | 154           |
 | spatial       | 144           |
 | desire        | 91            |
-| **total **    | 1,189        |
+| **total**     | **1,189**     |
 
 
 [Download CWWV_CLIP](https://drive.google.com/uc?export=download&id=10PsP7jMrQnUNU_oI_Z29clSMXW_Yh1Qo)
