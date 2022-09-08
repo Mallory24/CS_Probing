@@ -28,6 +28,7 @@ We release the two datasets used in the commonsense knowledge probing experiemnt
     | **total**     | **13,259**    |
 
 2. **CWWV_CLIP** [Download](https://drive.google.com/uc?export=download&id=10PsP7jMrQnUNU_oI_Z29clSMXW_Yh1Qo):
+3. 
     is a subset of CWWV_IMG that contains higher quality of image-word pair according to [CLIPScore](https://github.com/jmhessel/clipscore).
 
     | Dimensions    |  Counts  | 
