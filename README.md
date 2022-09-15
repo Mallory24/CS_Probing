@@ -51,10 +51,14 @@ We release the two datasets used in the commonsense knowledge probing experiemnt
 ## Citation
 If you find this dataset useful for your research, please cite:
 ```bibtex
-@inproceedings{,
-  title={},
-  author={},
-  booktitle={},
-  year={}
+@inproceedings{
+  yang-2022,
+  title={Are Visual-Linguistic Models Commonsense Knowledge Bases?},
+  author={Hsiu-Yu Yang and 
+          Carina Silberer},
+  booktitle={Proceedings of the 29th International Conference on Computational
+             Linguistics, {COLING} 2022, Gyeongju, Republic of Korea, October 12-17,
+             2020},
+  year={2022}
 }
 ```
