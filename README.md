@@ -58,7 +58,7 @@ If you find this dataset useful for your research, please cite:
           Carina Silberer},
   booktitle={Proceedings of the 29th International Conference on Computational
              Linguistics, {COLING} 2022, Gyeongju, Republic of Korea, October 12-17,
-             2020},
+             2022},
   year={2022}
 }
 ```
